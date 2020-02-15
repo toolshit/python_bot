@@ -6,7 +6,7 @@ import json
 import os
 
 TOKEN = os.getenv("TOKEN")
-#Comentario
+#Codfdsfsdentario
 bot = telebot.TeleBot(TOKEN)
 
 
